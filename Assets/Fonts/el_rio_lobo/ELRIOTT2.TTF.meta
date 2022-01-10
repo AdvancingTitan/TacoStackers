@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 27709e4e644a2a741a28ddf5d24a2df4
+timeCreated: 1563270221
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: El Rio Lobo
+  fontNames:
+  - El Rio Lobo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
